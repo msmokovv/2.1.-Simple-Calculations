@@ -1,0 +1,7 @@
+function squareArea([value]){
+
+    let a = Number(value);
+    let area = a * a;
+
+console.log(area);
+}
